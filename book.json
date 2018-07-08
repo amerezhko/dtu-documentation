@@ -1,8 +1,9 @@
 {
-	"language": "ru-RU",
+    "gitbook": "2.x.x",
+	"language": "ru",
     "links": {
         "sidebar": {
-            "Introduction": "index.html"
+            "Онлайн документация": "https://dtu.ccode.ru/docs/"
         }
     }
 }
