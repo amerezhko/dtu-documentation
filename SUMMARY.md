@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Документация плагина](README.md)
 * [Введение](index.md)
 
