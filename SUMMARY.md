@@ -1,5 +1,7 @@
 # Table of contents
 
-* [Введение](ru/README.md)
-   * [Что вы получаете?](ru/what-do-you-get.md)
-   * [Плагин](ru/plugin.md)
+* [Introduction](README.md)
+* [Введение](vvedenie.md)
+* [Что вы получаете?](chto-vy-poluchaete.md)
+* [Плагин](plagin.md)
+
