@@ -1,4 +1,4 @@
-# Введение 2
+# Введение
 
 ![](.gitbook/assets/dtu-logo-3.png)
 
