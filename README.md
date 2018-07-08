@@ -1,8 +1,6 @@
 # Введение
 
-
-
-![](.gitbook/assets/dtu-logo-2.png)
+![](.gitbook/assets/dtu-logo-3.png)
 
 ## Документация плагина
 
